@@ -1,7 +1,7 @@
 MRuby::Gem::Specification.new('mruby-merb') do |spec|
   spec.license = 'MIT'
   spec.authors = 'Paolo Bosetti'
- 
+
   # Add compile flags
   # spec.cc.flags << ''
 
