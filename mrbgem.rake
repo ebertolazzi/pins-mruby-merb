@@ -1,4 +1,4 @@
-MRuby::Gem::Specification.new('mruby-merb') do |spec|
+MRuby::Gem::Specification.new('pins-mruby-merb') do |spec|
   spec.license = 'MIT'
   spec.authors = 'Paolo Bosetti'
 
